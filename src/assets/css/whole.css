@@ -929,6 +929,9 @@ nav.nav-centered.outOfSight .logo {
   line-height: 27px;
   min-width: 0;
 }
+.btn-run:hover{
+  background-color:rgb(241, 103, 103);
+}
 
 /*!---------- 1. GLOBAL STYLES ----------*/
 
@@ -1703,5 +1706,5 @@ input.black {
   background: #202020;
   font-family: sans-serif;
   font-weight: 100;
-  
+
 }
